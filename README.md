@@ -135,5 +135,5 @@ graph TD
 ![Training Performance](images/training_performance.png)
 
 ### User Comparison
-![User Patterns](images/user_comparison.png)
+![User Patterns](images/FeaturesComparison.jpg)
 
