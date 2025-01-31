@@ -132,8 +132,8 @@ graph TD
 | F1-Score   | 83.9%  |
 
 ### Training Progress
-![Training Performance](images/training_performance.png)
+![Training Performance](training_performance.jpg)
 
 ### User Comparison
-![User Patterns](images/FeaturesComparison.jpg)
+![User Patterns](FeaturesComparison.jpg)
 
