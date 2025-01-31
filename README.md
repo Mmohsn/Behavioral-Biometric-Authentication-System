@@ -6,7 +6,7 @@
 
 A neural network-based authentication system using keystroke dynamics to identify users by their unique typing patterns.
 
-![System Architecture](images/system_architecture.png)
+![System Architecture](system_architecture.jpg)
 
 ## 📖 Table of Contents
 - [Features](#-features)
