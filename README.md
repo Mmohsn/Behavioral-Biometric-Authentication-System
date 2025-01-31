@@ -98,8 +98,6 @@ python src/authenticate.py
 | Up-Down Time    | Time between release and next press  |
 | Typing Speed    | Calculated keys per second           |
 
-**Sample Distribution**:
-![Feature Distribution](images/feature_distribution.png)
 
 ## 🏗️ Architecture
 
