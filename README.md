@@ -15,8 +15,7 @@ A neural network-based authentication system using keystroke dynamics to identif
 - [Dataset](#-dataset)
 - [Architecture](#-architecture)
 - [Results](#-results)
-- [References](#-references)
-- [License](#-license)
+
 
 ## 🌟 Features
 - **Behavioral Biometrics Analysis**
