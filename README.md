@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Status: Experimental](https://img.shields.io/badge/Status-Experimental-orange)](https://github.com/yourusername/behavioral-biometrics-auth)
 
-A neural network-based authentication system using keystroke dynamics to identify users by their unique typing patterns. Developed by Computer Science students at the College of Applied Sciences, Riyadh.
+A neural network-based authentication system using keystroke dynamics to identify users by their unique typing patterns.
 
 ![System Architecture](images/system_architecture.png)
 
